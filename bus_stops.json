@@ -1,0 +1,14 @@
+[
+    {
+        "northing": 600000,
+        "easting": 600000,
+        "name": "Bus Stop 1",
+        "remarks": "Some remarks about Bus Stop 1"
+    },
+    {
+        "northing": 700000,
+        "easting": 700000,
+        "name": "Bus Stop 2",
+        "remarks": "Some remarks about Bus Stop 2"
+    }
+]
