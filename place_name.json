@@ -4,7 +4,7 @@
         "easting": 794006,
         "name": "Fanshan Province<br>峰汕省",
         "minZoomLevel": "-8",
-        "minZoomLevel": "-2",
+        "maxZoomLevel": "-2",
         "textSize": "12px",
         "position": "top"
     }
