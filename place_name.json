@@ -6,12 +6,14 @@
         "className": "capital-below",
         "minZoomLevel": -6,
         "maxZoomLevel": 0
-    }, {
-        "name": "First Place",
+    }
+    ,
+    {
+        "name": "Kong Pak City<br>江柏市",
         "northing": 700000,
         "easting": 700000,
-        "className": "firstPlace-top",
-        "minZoomLevel": -2,
-        "maxZoomLevel": 1
+        "className": "capital-below",
+        "minZoomLevel": -6,
+        "maxZoomLevel": 0
     }
 ]
