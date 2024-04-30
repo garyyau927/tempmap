@@ -1,9 +1,27 @@
 [
     {
+        "name": "Inner Trueking<br>內總經",
+        "northing": 755092,
+        "easting": 787318,
+        "className": "capital-below",
+        "minZoomLevel": -6,
+        "maxZoomLevel": -2
+    }
+    ,
+    {
+        "name": "Upper Trueking<br>上總經",
+        "northing": 760188,
+        "easting": 785854,
+        "className": "firstPlace-top",
+        "minZoomLevel": -6,
+        "maxZoomLevel": -2
+    }
+    ,
+    {
         "name": "Fanshan City<br>峰汕市",
         "northing": 600000,
         "easting": 600000,
-        "className": "capital-below",
+        "className": "firstPlace-below",
         "minZoomLevel": -6,
         "maxZoomLevel": 0
     }
@@ -12,7 +30,7 @@
         "name": "Kong Pak City<br>江柏市",
         "northing": 700000,
         "easting": 700000,
-        "className": "capital-below",
+        "className": "firstPlace-below",
         "minZoomLevel": -6,
         "maxZoomLevel": 0
     }
